@@ -1,0 +1,12 @@
+{
+    "font_family": [
+        "Microsoft YaHei UI"
+    ],
+    "font_size": 9,
+    "color": "#009faa",
+    "confidence": 0.9,
+    "ocrs": "\u767e\u5ea6OCR",
+    "status_C": true,
+    "status_M": false,
+    "path": ""
+}
